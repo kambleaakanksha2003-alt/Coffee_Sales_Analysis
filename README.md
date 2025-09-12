@@ -19,3 +19,5 @@ This dashboard is for presenting my insights to the regional manager of the coff
 - We can see a drastic increment in the revenue in May indicating that people are visiting the cafes often or in greater numbers
 - This could be due to the  holiday season and we should be prepared for this trend next year
 - Resource management for peak months
+
+![image](https://github.com/user-attachments/assets/16df1cba-d0fe-4dba-a1a9-e1e330c58dbf)

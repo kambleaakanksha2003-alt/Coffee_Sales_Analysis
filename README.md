@@ -1,5 +1,5 @@
 # Coffee_Sales_Analysis
-!(https://static.vecteezy.com/system/resources/previews/025/282/026/non_2x/stock-of-mix-a-cup-coffee-latte-more-motive-top-view-foodgraphy-generative-ai-photo.jpg)
+!(https://img.freepik.com/free-photo/fresh-coffee-steams-wooden-table-close-up-generative-ai_188544-8923.jpg)
 
 ## Overview : 
 This dashboard is for presenting my insights to the regional manager of the coffee chain with 3 different stores.I have created a dashboard which can help me discuss the operations of these stores with my higher-ups. This will be done solely to optimize the operations.

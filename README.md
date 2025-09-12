@@ -6,3 +6,10 @@ This dashboard is for presenting my insights to the regional manager of the coff
 
 ## Tool used :
 <img src="./microsoft-excel.png" width="300" height="150"/>&nbsp;
+
+## Result and Insights :
+- I have noticed that the Revenue is continuously growing.
+- The busiest days are Mondays, Thursdays, and Fridays. This makes sense since people like to visit coffee shops when they are all jacked up for work.
+- The busiest hours are in the mornings when people are visiting their offices.
+- This trend is similar for all the stores.
+- The top category is coffee and the product is Barista Espresso across the board.

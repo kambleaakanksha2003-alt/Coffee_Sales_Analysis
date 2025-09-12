@@ -1,5 +1,5 @@
 # Coffee_Sales_Analysis
-![Coffee Background Banner (4)](https://img.freepik.com/free-photo/fresh-coffee-steams-wooden-table-close-up-generative-ai_188544-8923.jpg)
+![Coffee Background Banner (4)](https://neurosciencenews.com/files/2023/06/coffee-brain-caffeine-neuroscincces.jpg)
 
 ## Overview : 
 This dashboard is for presenting my insights to the regional manager of the coffee chain with 3 different stores.I have created a dashboard which can help me discuss the operations of these stores with my higher-ups. This will be done solely to optimize the operations.

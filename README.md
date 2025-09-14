@@ -1,5 +1,5 @@
 # Coffee_Sales_Analysis
-![Coffee Background Banner (4)](https://static.vecteezy.com/system/resources/previews/033/692/796/non_2x/coffee-cups-with-latte-art-on-wooden-table-top-view-multiple-cups-of-coffee-with-variety-of-coffee-drinks-overhead-view-ai-generated-free-photo.jpg)
+![Coffee Background Banner (4)](https://static.vecteezy.com/system/resources/previews/023/010/450/non_2x/the-cup-of-latte-coffee-with-heart-shaped-latte-art-and-ai-generated-free-photo.jpg)
 
 ## Overview : 
 This dashboard is for presenting my insights to the regional manager of the coffee chain with 3 different stores.I have created a dashboard which can help me discuss the operations of these stores with my higher-ups. This will be done solely to optimize the operations.

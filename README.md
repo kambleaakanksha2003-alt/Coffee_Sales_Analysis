@@ -23,8 +23,7 @@ Key Insights & Recommendations:
 ![image](https://github.com/user-attachments/assets/16df1cba-d0fe-4dba-a1a9-e1e330c58dbf)
 
 ## Data Story :
-I have noticed that the bottom products for all the stores include some flavours and other products like coffee beans. Also, the merchandise clothing for Hell's Kitchen is way less as compared to other stores. We shall provide some discount offers to this store to increase sales. Or else completely remove it from displaying at this store and keep it available on order only. This shall help us reduce the costs of operations.
-
+This analysis captures the performance of Starbucks coffee sales across Astoria, Hell’s Kitchen, and Lower Manhattan. Using six months of data, we identify revenue trends, customer behavior patterns, and product performance to guide data-driven decisions.
 
 ## Dashboard :
 <img width="1089" height="631" alt="dashboard" src="https://github.com/user-attachments/assets/4fecce59-f2ff-43ef-9496-29458fca5087" />

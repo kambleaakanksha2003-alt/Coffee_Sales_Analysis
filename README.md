@@ -1,4 +1,4 @@
-# Coffee_Sales_Analysis
+# Coffee Sale Dashboard
 ![Coffee Background Banner (4)](https://static.vecteezy.com/system/resources/previews/023/010/450/non_2x/the-cup-of-latte-coffee-with-heart-shaped-latte-art-and-ai-generated-free-photo.jpg)
 
 ## Overview : 

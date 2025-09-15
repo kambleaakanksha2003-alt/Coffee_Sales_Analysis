@@ -10,9 +10,10 @@ This dashboard is for presenting my insights to the regional manager of the coff
 ## Result and Insights :
 Key Insights & Recommendations:
 - Revenue is growing but missing monthly targets.
--Peak times (Fridays, mornings) should be leveraged for promotions.
--Consider pushing underperforming items during slow hours/days.
--Replicate best-selling product strategies across locations.
+- Peak times (Fridays, mornings) should be leveraged for promotions.
+- Consider pushing underperforming items during slow hours/days.
+- Replicate best-selling product strategies across locations.
+
 ## Additional Insights
 - We can see a continuous growth in revenue which indicates increasing popularity and success of the business
 - We can see a drastic increment in the revenue in May indicating that people are visiting the cafes often or in greater numbers
